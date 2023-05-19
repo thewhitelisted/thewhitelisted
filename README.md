@@ -1,7 +1,6 @@
 - Hi, I’m @thewhitelisted
-- I’m interested in doing funny things with code and algorithms
-- if you're reading this then what are you doing with your life
-- you can't contact me.
+- I’m interested in doing funny things with algorithms and java
+- contact me at clee2k6@gmail.com
 
 <!---
 thewhitelisted/thewhitelisted is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
