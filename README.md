@@ -1,5 +1,5 @@
 - Hi, I’m @thewhitelisted
-- I’m interested in doing funny things with algorithms and java
+- I’m interested in learning new things with code and languages
 - contact me at clee2k6@gmail.com
 
 <!---
