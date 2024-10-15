@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on **Personal Projects**
 
-- 🌱 I’m currently learning **Data Structures and Algorithms**
+- 🌱 I’m currently learning **C++**
 
-- 📫 Reach me at **clee2k6@gmail.com**
+- 📫 Reach me at **jleechris06@gmail.com**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
