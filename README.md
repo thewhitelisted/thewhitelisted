@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Christopher</h1>
-<h3 align="center">A Programmer from Ontario, Canada</h3>
+<h3 align="center">A math student @ uwaterloo</h3>
 
-- 🔭 I’m currently working on **Personal Projects**
+- 🔭 I’m currently working on **Markov Chain-Based Market Regime Detection**
 
-- 🌱 I’m currently learning **C++**
+- 🌱 I’m currently learning **Stochastic Applications to Finance**
 
 - 📫 Reach me at **jleechris06@gmail.com**
 
