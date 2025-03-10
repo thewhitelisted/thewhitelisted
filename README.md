@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Markov Chain-Based Market Regime Detection**
 
-- 🌱 I’m currently learning **Stochastic Applications to Finance**
+- 🌱 I’m currently learning **Quantitative Applications to Finance**
 
 - 📫 Reach me at **jleechris06@gmail.com**
 
