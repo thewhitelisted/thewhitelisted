@@ -1,4 +1,4 @@
-<h2 align="center">christopher lee</h2>
+<h1 align="center">christopher lee</h1>
 <h3 align="center">aspiring quant and math/bba @ uwaterloo and laurier</h3>
 
 - working on: **evaluating the impact of quality and volatility factors on stock returns**
