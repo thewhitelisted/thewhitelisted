@@ -1,15 +1,13 @@
 <h1 align="center">christopher lee</h1>
 <h3 align="center">aspiring quant and math/bba @ uwaterloo and laurier</h3>
 
-- working on: **a blazingly fast git clone (written in rust ofc)**
+- working on: **fin models**
 
-- learning: **quant research**
+- learning: **the secrets of the universe**
 
-- website: [https://thewhitelisted.github.io/website/projects.html](https://thewhitelisted.github.io/website/projects.html)
+- website: [https://www.christopherjlee.ca/](https://www.christopherjlee.ca/)
 
 - email me: **jleechris06@gmail.com**
-
-- resume: [https://thewhitelisted.github.io/website/2025-christopher_lee.pdf](https://thewhitelisted.github.io/website/2025-christopher_lee.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
