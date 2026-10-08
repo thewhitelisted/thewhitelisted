@@ -1,10 +1,6 @@
 <h1 align="center">christopher lee</h1>
 <h3 align="center">aspiring quant and math/bba @ uwaterloo and laurier</h3>
 
-- working on: **fin models**
-
-- learning: **the secrets of the universe**
-
 - website: [https://www.christopherjlee.ca/](https://www.christopherjlee.ca/)
 
 - email me: **jleechris06@gmail.com**
